@@ -1,7 +1,7 @@
 {
-    "version": "2.6.0",
+    "version": "2.5.3",
     "license": "Eclipse Public License 1.0",
-    "url": "https://raw.githubusercontent.com/technomancy/leiningen/master/bin/lein.bat",
+    "url": "https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat",
     "homepage": "https://github.com/technomancy/leiningen",
     "bin": "lein.bat",
     "hash": "231f1dd3609a41e8f843f9a62a054008caff9eb5bdf864d3851300fc922afc3d",
